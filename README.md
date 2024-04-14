@@ -30,3 +30,4 @@ This libre centers text in the terminal just download the python file import it 
 ##the center libre refreshs the terminal so thats why you put everything in a while loop<br>
 
 ![alt](code.png)
+![alt](output.png)
