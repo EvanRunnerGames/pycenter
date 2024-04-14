@@ -7,19 +7,19 @@ This libre centers text in the terminal just download the python file import it 
 #text_to_center = "Hello, World!"<br>
 
 ##then you make a variable that is going to center the text then do center_text(your variable)<br>
-#centered_text = center_text(text_to_center)<br>
+#centered_text = center.center_text(text_to_center)<br>
 
 ##then print your text and it will center<br>
 #print(centered_text)<br>
 
 # EXAMPLE TWO
 #text_to_center = "I like apples"<br>
-#centered_text = center_text(text_to_center)<br>
+#centered_text = center.center_text(text_to_center)<br>
 #print(centered_text)<br>
 
 # YOU CAN ALSO CENTER MORE THAN ONE TEXT
 
 #text_to_center = "oh and oranges to"<br>
-#centered_text = center_text(text_to_center)<br>
+#centered_text = center.center_text(text_to_center)<br>
 #print(centered_text)<br>
 
