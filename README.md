@@ -23,3 +23,8 @@ This libre centers text in the terminal just download the python file import it 
 #centered_text = center.center_text(text_to_center)<br>
 #print(centered_text)<br>
 
+# EXAMPLE THREE
+
+##you can also change the refresh rate by doing<br>
+#center.refresh_rate = 5 or whatever value you want and that is how many times<br>
+##the center libre refreshs the terminal so thats why you put everything in a while loop
