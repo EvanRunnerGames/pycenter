@@ -27,4 +27,6 @@ This libre centers text in the terminal just download the python file import it 
 
 ##you can also change the refresh rate by doing<br>
 #center.refresh_rate = 5 or whatever value you want and that is how many times<br>
-##the center libre refreshs the terminal so thats why you put everything in a while loop
+##the center libre refreshs the terminal so thats why you put everything in a while loop<br>
+
+![alt](code.png)
