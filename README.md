@@ -1,5 +1,6 @@
 # pycenter
 This libre centers text in the terminal just download the python file import it into your file and there is examples on how to use it<br>
+there is a time.sleep(ammount of time)/ time.sleep(8) this is for basically the update/fps you can change this this is here incase someone wants to resize the terminal so it keep redrawing the terminal like 0.0001 to update to the rezie of a termianl window but if you are fine without it and are fine with a locked terminal then just remove everything about time.sleep(8) or anything with time.sleep()
 
 # EXAMPLE ONE
 
